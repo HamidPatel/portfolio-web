@@ -1,0 +1,12 @@
+@media screen and (min-width: 375px) {
+    .about{
+        flex-direction: column;
+    }
+    .leftabout{
+        justify-content:  center;
+    }
+    .rightabout {
+        overflow: scroll;
+    }
+  }
+  
