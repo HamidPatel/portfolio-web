@@ -4,7 +4,7 @@
         overflow-x: hidden;
     }
     .header{
-        padding: 0 19px;
+        padding: 0 29px;
 
     }
     .leftnav{
@@ -15,10 +15,10 @@
     }
     .rightnav i{
         display: initial;
-        font-size: 30px;
+        font-size: 60px;
     }
     .main h1{
-        font-size: 22px;
+        font-size: 42px;
     }
     .about{
         flex-direction: column;
